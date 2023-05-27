@@ -1,0 +1,10 @@
+{
+    "openai_key": "",
+    "modules": [
+        "main_navigation",
+        "dashboard",
+        "product_list",
+        "product_form",
+        "profile"
+    ]
+}
